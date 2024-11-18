@@ -4,11 +4,11 @@
 }
 @font-face {
   font-family:Ultra ;
-  src: url(/webfonts/Ultra-Regular.ttf);
+  src: url(../webfonts/Ultra-Regular.ttf);
 }
 @font-face {
   font-family: Unbounded;
-  src: url(/webfonts/Unbounded-VariableFont_wght.ttf);
+  src: url(../webfonts/Unbounded-VariableFont_wght.ttf);
 }
 
 img{
