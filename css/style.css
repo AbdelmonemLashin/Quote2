@@ -2,10 +2,25 @@
     margin: 0;
     padding: 0;
 }
-
+@font-face {
+  font-family:Ultra ;
+  src: url(/webfonts/Ultra-Regular.ttf);
+}
+@font-face {
+  font-family: Unbounded;
+  src: url(/webfonts/Unbounded-VariableFont_wght.ttf);
+}
 
 img{
   width: 100px;
   height: 100PX;
 }
 
+h1{
+  font-family: Ultra;
+}
+
+p{
+  font-family: Unbounded;
+  color: rgb(151, 151, 151);
+}
